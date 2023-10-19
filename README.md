@@ -10,7 +10,7 @@ I'm a technology expert with comprehensive expertise in hardware, CSS, HTML, Jav
 ### 📱 Socials:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://www.instagram.com/lucas.cdsm/)
 
 ### 📊 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascdsm&layout=donut&theme=tokyonight)](https://github.com/lucascdsm/github-readme-stats)
