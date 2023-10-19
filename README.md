@@ -10,7 +10,7 @@ I'm a technology expert with comprehensive expertise in hardware, CSS, HTML, Jav
 ### 📱 Socials:
 <a href="https://www.linkedin.com/in/lucascdsm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.tiktok.com/@tech.miranda" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/lucas.cdsm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee" target="_blank"></a>
+<a href="https://www.instagram.com/lucas.cdsm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### 📊 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascdsm&layout=donut&theme=tokyonight)](https://github.com/lucascdsm/github-readme-stats)
